@@ -1,4 +1,4 @@
-# Django Group - Passos Iniciais
+# Grupo Django - Passos Iniciais
 
 Aqui estaremos listando materiais de estudo, desde vídeo-aulas, referências de livros gratuitos, posts e etc. Teremos também listagem de assuntos que estão relacionados com desenvolvimento web, como conceitos de web (HTTP, servers e etc), HTML, CSS e JS.
 
