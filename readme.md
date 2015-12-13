@@ -16,6 +16,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 		- [Django MOC](https://www.youtube.com/playlist?list=PLHWfNMxB2F4G2KHo8DBQr_xq79FXgEIAE) (versão 1.8)
 
 ## Posts
+
 - Django
 	- pt_BR
 		- (Tutorial Django Girls)[http://tutorial.djangogirls.org/pt/] (versão 1.8)
