@@ -19,7 +19,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 - Django
 	- pt_BR
-		- [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/] (versão 1.8)
+		- [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/) (versão 1.8)
 
 ## Livros
 
