@@ -21,6 +21,9 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 	- pt_BR
 		- [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/) (versão 1.8)
 
+	- en_US
+		- [Tango with Django](http://www.tangowithdjango.com/book17/) (versão 1.7 com Python 2.7)
+
 ## Livros
 
 Se gostaria de aproveitar esse material interagindo conosco, leia nossa nota sobre o grupo: http://pastebin.com/nwYyG7Ar
