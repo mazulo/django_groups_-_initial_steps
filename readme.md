@@ -26,5 +26,11 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 ## Livros
 
+## Imagens
+- Django
+	- en
+		- [Ciclo de requisição e resposta](http://i.imgur.com/jDyQIEz.jpg)
+
+
 Se gostaria de aproveitar esse material interagindo conosco, leia nossa nota sobre o grupo: http://pastebin.com/nwYyG7Ar
 
