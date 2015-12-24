@@ -14,6 +14,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 - Django
 	- pt_BR
 		- [Django MOC](https://www.youtube.com/playlist?list=PLHWfNMxB2F4G2KHo8DBQr_xq79FXgEIAE) (versão 1.8)
+		- [Django para Iniciantes - Allisson Azevedo](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) (versão 1.4)
 
 ## Posts
 
