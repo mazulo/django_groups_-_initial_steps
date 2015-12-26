@@ -15,6 +15,8 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 	- pt_BR
 		- [Django MOC](https://www.youtube.com/playlist?list=PLHWfNMxB2F4G2KHo8DBQr_xq79FXgEIAE) (versão 1.8)
 		- [Django para Iniciantes - Allisson Azevedo](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) (versão 1.4)
+	- en_US
+		- [Try Django 1.8 - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 
 ## Posts
 
@@ -24,6 +26,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 	- en_US
 		- [Tango with Django](http://www.tangowithdjango.com/book17/) (versão 1.7 com Python 2.7)
+		- [Django by Errors](https://django-by-errors.readthedocs.org/en/latest/)
 
 ## Livros
 
