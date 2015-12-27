@@ -32,7 +32,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 ## Imagens
 - Django
-	- en
+	- en_US
 		- [Ciclo de requisição e resposta](http://i.imgur.com/jDyQIEz.jpg)
 
 
