@@ -27,10 +27,26 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 ## Livros
 
+
 ## Imagens
+
 - Django
 	- en
 		- [Ciclo de requisição e resposta](http://i.imgur.com/jDyQIEz.jpg)
+
+
+## Frontend
+
+
+## Outros conteúdos relacionados
+
+- Expressões regulares
+	- en_US
+		- [RegexOne](http://regexone.com/lesson/introduction_abcs)
+		- [Regex101](https://regex101.com/#python) (para praticar)
+
+	- pt_BR
+		- [Expressões Regulares - Guia de Consulta Rápida](http://aurelio.net/regex/guia/) - por Aurelio Marinho Jargas e Editora Novatec, ©2001
 
 
 Se gostaria de aproveitar esse material interagindo conosco, leia nossa nota sobre o grupo: http://pastebin.com/nwYyG7Ar
