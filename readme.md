@@ -19,14 +19,13 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 		- [Try Django 1.8- Create an MVP Landing Page - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 		- [Try Django 1.9 -  Build a Django Blog - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
 
-## Posts
+## Tutoriais
 
 - Django
 	- pt_BR
 		- [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/) (versão 1.8)
 
 	- en_US
-		- [Tango with Django](http://www.tangowithdjango.com/book17/) (versão 1.7 com Python 2.7)
 		- [Django by Errors](https://django-by-errors.readthedocs.org/en/latest/)
 
 ## Livros
