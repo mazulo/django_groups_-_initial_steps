@@ -31,6 +31,11 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 
 ## Livros
 
+- Django
+	- en_US
+		- [Mastering Django](http://masteringdjango.com/) (versão 1.8)
+		- [Tango with Django](http://www.tangowithdjango.com/) (versão 1.5 e 1.7)
+
 
 ## Imagens
 
