@@ -15,6 +15,8 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 	- pt_BR
 		- [Django MOC](https://www.youtube.com/playlist?list=PLHWfNMxB2F4G2KHo8DBQr_xq79FXgEIAE) (versão 1.8)
 		- [Django para Iniciantes - Allisson Azevedo](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) (versão 1.4)
+		- [Encontro 1 - Settings - DunderLabs](https://youtu.be/m7PujnjPboU?list=PLX3H5HWvzsQtOIEWUcEzzkJNIF7IYMLIl) (versão 1.9)
+		- [Encontro 2 - Models - DunderLabs](https://youtu.be/h_iNt4ueaxQ?list=PLX3H5HWvzsQtOIEWUcEzzkJNIF7IYMLIl) (versão 1.9)
 	- en_US
 		- [Try Django 1.8- Create an MVP Landing Page - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 		- [Try Django 1.9 -  Build a Django Blog - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
