@@ -19,6 +19,11 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 		- [Try Django 1.8- Create an MVP Landing Page - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 		- [Try Django 1.9 -  Build a Django Blog - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
 
+- Python
+	- pt_BR
+		- [Python para Zombies](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+
+
 ## Tutoriais
 
 - Django
