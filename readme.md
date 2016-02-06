@@ -23,6 +23,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 - Python
 	- pt_BR
 		- [Python para Zombies](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+		- [Ignorancia Zero - Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
 
 ## Tutoriais
