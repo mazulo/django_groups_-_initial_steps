@@ -20,6 +20,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 	- en_US
 		- [Try Django 1.8- Create an MVP Landing Page - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 		- [Try Django 1.9 -  Build a Django Blog - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
+        - [Advancing the Blog from Try Django 1.9 - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQB82YbmKKBy2jKdzpZKczn)
 
 - Python
 	- pt_BR
