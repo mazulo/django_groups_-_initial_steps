@@ -17,6 +17,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 		- [Django MOC](https://www.youtube.com/playlist?list=PLHWfNMxB2F4G2KHo8DBQr_xq79FXgEIAE) (versão 1.8)
 		- [Django para Iniciantes - Allisson Azevedo](https://www.youtube.com/playlist?list=PLfkVgm8720kzm6fmTekjtKyFcppyD4Ubd) (versão 1.4)
 		- [Curso Python 3 na Web com Django (Básico e Intermediário) - Gileno Filho](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) (versão 1.6)
+	
 	- en_US
 		- [Try Django 1.8- Create an MVP Landing Page - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S)
 		- [Try Django 1.9 -  Build a Django Blog - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy)
@@ -57,6 +58,14 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 - Django
 	- en_US
 		- [Ciclo de requisição e resposta](http://i.imgur.com/jDyQIEz.jpg)
+
+
+## Awesome Links
+- Django
+	https://gitlab.com/rosarior/awesome-django
+
+- Python
+	https://github.com/vinta/awesome-python
 
 
 ## Frontend
