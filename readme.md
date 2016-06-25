@@ -36,6 +36,22 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 		- [Ignorancia Zero - Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe)
 
 
+## Cursos
+
+- Django
+	- Free
+		- en_US
+			- [Django Tutorial: Build Your First App Fast & Free! - Udemy](https://www.udemy.com/create-your-first-django-website-fast-free/)
+
+		- pt_BR
+			- [Python 3 na Web com Django (Básico e Intermediário) - Udemy - Gileno Filho](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
+	
+	- Pagos
+		- pt_BR
+			- [Django: programação web com Python e simplicidade - Alura](https://www.alura.com.br/curso-online-introducao-ao-django)
+			- [Iniciando com Django - School of net](https://www.schoolofnet.com/courses/iniciando-com-django)
+
+
 ## Tutoriais
 
 - Django
