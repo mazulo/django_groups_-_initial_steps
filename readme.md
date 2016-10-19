@@ -50,7 +50,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 - Django
 	- en_US
 		- [Mastering Django](http://masteringdjango.com/) (versão 1.8)
-		- [Tango with Django](http://www.tangowithdjango.com/) (versão 1.5 e 1.7)
+		- [Tango with Django](http://www.tangowithdjango.com/) (versão 1.5, 1.7 e 1.9/1.10)
 
 
 ## Imagens
