@@ -29,6 +29,7 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
         - [Building a website with Django and React.js - Chris Hawkes](https://www.youtube.com/playlist?list=PLei96ZX_m9sUs4aFBvxQDKAE1tg2kN01e)
         - [Creating a Blog with Django 1.7 - Chris Hawkes](https://www.youtube.com/playlist?list=PLei96ZX_m9sV9Me7BVXL1RsiwZzUIrgrV)
         - [Django - Building a music project - Chris Hawkes](https://www.youtube.com/playlist?list=PLei96ZX_m9sXgQKdUxVuFw6NJTAZAtMHm)
+        - [Idea Landing Page -- Build a place to Test Your Ideas with Django - Code Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTgDieSvwKL3CakR8XyKkBk)
 
 - Python
 	- pt_BR
