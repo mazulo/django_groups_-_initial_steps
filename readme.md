@@ -45,7 +45,10 @@ No final, teremos um acervo grande e bem completo. Mas não se assuste, nem se d
 			- [Django Tutorial: Build Your First App Fast & Free! - Udemy](https://www.udemy.com/create-your-first-django-website-fast-free/)
 
 		- pt_BR
+			- [Django 2.0 - Aprendendo os conceitos fundamentais - Udemy - Gregory Pacheco](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/)
+
 			- [Python 3 na Web com Django (Básico e Intermediário) - Udemy - Gileno Filho](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/)
+			
 	
 	- Pagos
 		- pt_BR
